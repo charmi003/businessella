@@ -1,0 +1,9 @@
+//exporting all the action constants
+export const ADD_ORDER='ADD_ORDER'
+export const UPDATE_CREATE_FORM_DATA='UPDATE_FORM_DATA'
+export const RESET_CREATE_FORM_DATA='RESET_FORM_DATA'
+export const DELETE_ORDER='DELETE_ORDER'
+export const UPDATE_EDIT_FORM_DATA='UPDATE_EDIT_FORM_DATA'
+export const SET_EDITABLE_ID='SET_EDITABLE_ID'
+export const UPDATE_ORDER='UPDATE_ORDER'
+export const RESET_EDIT_FORM_DATA='RESET_EDIT_FORM_DATA'
